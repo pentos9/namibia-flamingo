@@ -1,4 +1,4 @@
-package com.spacex.flamingo;
+package com.spacex.flamingo.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

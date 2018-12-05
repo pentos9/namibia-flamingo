@@ -1,4 +1,4 @@
-package com.spacex.flamingo;
+package com.spacex.flamingo.service;
 
 public class HelloService {
     private String msg;

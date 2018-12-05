@@ -1,2 +1,2 @@
 # Auto Configure
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.spacex.flamingo.HelloServiceAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.spacex.flamingo.configuration.HelloServiceAutoConfiguration,com.spacex.flamingo.configuration.ExampleAutoConfiguration

@@ -1,5 +1,7 @@
-package com.spacex.flamingo;
+package com.spacex.flamingo.configuration;
 
+import com.spacex.flamingo.properties.HelloServiceProperties;
+import com.spacex.flamingo.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
