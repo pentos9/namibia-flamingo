@@ -6,7 +6,7 @@
 
     <groupId>com.spacex</groupId>
     <artifactId>namibia-flamingo-spring-boot-starter</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <description>It's a self-made spring boot starter and I don't follow the pattern:
         {name}-spring-boot-starter to name my project!
     </description>
